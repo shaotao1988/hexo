@@ -2,7 +2,7 @@
 layout: post
 title: Redis主从复制
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Redis, distributed]
 ---
 

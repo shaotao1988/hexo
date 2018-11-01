@@ -2,7 +2,7 @@
 layout: post
 title: Redis分布式锁
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Redis, distributed]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Redis水平扩展
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Redis, scalability]
 ---
 

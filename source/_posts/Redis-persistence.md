@@ -2,7 +2,7 @@
 layout: post
 title: Redis数据持久化
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Redis]
 ---
 

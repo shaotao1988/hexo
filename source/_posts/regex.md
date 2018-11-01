@@ -2,7 +2,7 @@
 layout: post
 title: 正则表达式常用符号
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Regex]
 ---
 

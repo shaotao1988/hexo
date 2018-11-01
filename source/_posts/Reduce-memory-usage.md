@@ -2,7 +2,7 @@
 layout: post
 title: Redis减少内存占用
 description: 
-updated: 2018-09-09
+date: 2018-09-09
 tags: [Redis]
 ---
 
