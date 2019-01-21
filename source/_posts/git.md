@@ -93,13 +93,15 @@ git remote -v
 git fetch origin master:tmp
 ```
 origin为远程仓库的名字，可以通过git remote -v命令查看。如果省略仓库名，则拉取默认远程仓库的所有分支到本地
+
 master为要拉取的远程分支名字，tmp为拉取到本地的分支名字，如果省略分支名，则默认拉取远程的master分支到本地的master分支
+
 该命令只会讲远程仓库的数据拉取到本地仓库，但不会改动当前工作区的文件  
 
 ```
 git pull
 ```
-该命令从远程仓库抓取数据并将改动合并到当前分支，该命令相当于一下几个命令：
+该命令从远程仓库抓取数据并将改动合并到当前分支，该命令相当于以下几个命令：
 ```
 git fetch origin master:tmp
 git merge tmp
