@@ -2,7 +2,7 @@
 layout: post
 title: python日志模块
 description: "python日志模块介绍"
-date: 2018-09-09
+date: 2018-02-05
 tags: [python, logging]
 ---
 
